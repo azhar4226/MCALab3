@@ -24,4 +24,4 @@ with open("Marks.data", 'w') as file:
 
 
 print()
-print("Records saved.")
+print("Records saved.")         
